@@ -34,13 +34,14 @@ The dataset used for this project can be found on Kaggle: Clicks Conversion Trac
 * Open the Jupyter Notebook in the notebooks/ directory and run the cells in order.
 
 ## Dependencies
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-jupyter
+* Python 3.x
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scipy
+* sklearn
+* jupyter
 
 ## Contributing
 Please feel free to submit a pull request or open an issue if you have suggestions for improvements or find any bugs.
